@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Rachael Tatman"
+title                    : "Tomislav Gelo"
 title_separator          : "-"
-name                     : &name "Rachael Tatman"
-description              : &description "Data scientist, Developer advocate, Linguist"
-url                      : http://www.rctatman.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Tomislav Gelo"
+description              : &description "Data scientist, Machine Learning"
+url                      : https://tgel0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "rctatman/rctatman.github.io"
+repository               : "tgel0/tgel0.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Rachael Tatman"
-  avatar           : "rachael_headshot (2).jpg"
-  bio              : "Data Science & NLP"
-  location         : "Seattle, WA"
-  employer         : "Kaggle"
-  googlescholar    : "https://scholar.google.com/citations?user=1BKWg5gAAAAJ&hl=en"
-  email            : "rachael.tatman@gmail.com"
+  name             : "Tomislav Gelo"
+  avatar           : ""
+  bio              : "Data Science"
+  location         : "Berlin, Germany"
+  employer         : ""
+  googlescholar    : ""
+  email            : "gelo.tomi@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rctatman"
+  github           : "tgel0"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "rachael-tatman-500a323a"
+  linkedin         : "www.linkedin.com/in/tomigelo/"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  twitch           : "https://www.twitch.tv/rctatman"
-  twitter          : "rctatman"
+  twitch           : ""
+  twitter          : "tgel0"
   vine             :
   weibo            :
   xing             :
