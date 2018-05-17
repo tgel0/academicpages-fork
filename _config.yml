@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tomislav Gelo"
+title                    : "Tomi Gelo"
 title_separator          : "-"
-name                     : &name "Tomislav Gelo"
+name                     : &name "Tomi Gelo"
 description              : &description "Data scientist, Machine Learning"
 url                      : https://tgel0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
