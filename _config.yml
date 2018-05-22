@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Tomi Gelo"
-  avatar           : ""
+  avatar           : "https://github.com/tgel0/tgel0.github.io/blob/master/images/profile.jpg"
   bio              : "Data Science"
   location         : "Berlin, Germany"
   employer         : 
