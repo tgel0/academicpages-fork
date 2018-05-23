@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Tomi Gelo"
   avatar           : "profile.jpg"
-  bio              : "Data Science"
+  bio              : "Data Science and Machine Learning"
   location         : "Berlin, Germany"
   employer         : 
   googlescholar    : 
@@ -94,6 +94,7 @@ author:
   foursquare       :
   github           : "tgel0"
   google_plus      :
+  kaggle           : "tomigelo"
   keybase          :
   instagram        :
   lastfm           :
@@ -110,7 +111,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  kaggle           : "tomigelo"
 
 
 # Reading Files
