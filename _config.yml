@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tomi Gelo"
 title_separator          : "-"
 name                     : &name "Tomi Gelo"
-description              : &description "Data scientist, Machine Learning"
+description              : &description "Data Nerd"
 url                      : https://tgel0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "tgel0/tgel0.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Tomi Gelo"
   avatar           : "profile.jpg"
-  bio              : "Data Science and Machine Learning"
+  bio              : "Data Nerd"
   location         : "Berlin, Germany"
   employer         : 
   googlescholar    : 
