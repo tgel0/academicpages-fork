@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Data Nerd learning how (to make) machines learn.
+### Welcome to my personal website!
 
-Here are some things I've been working on recently:
+I am a data nerd based in Berlin and interested in data science and machine learning. After doing some consulting for banks for a few years I'm now looking for a new challenge! If you would like to find out more, check out my [CV](https://drive.google.com/open?id=1RrQ8oCcvxQQVsmNG_qkfe0MkuVqxEjEC).
 
-- In order to get some more practical experience with Python and Data Science I recently started with [Kaggle](https://www.kaggle.com/) competitions: my [Titanic kernel](https://www.kaggle.com/tomigelo/titanic-with-family-survival-tpot-0-81818) made it into the top 4% (at the time of submission), currently I'm working on the Santander challenge after [my benchmark model](https://www.kaggle.com/tomigelo/benchmark-model-with-lgbm-1-48) achieved a pretty good RMSLE of 1.48
+- Following my 10.000th tweet on Twitter I did some data analysis and visualization and wrote a [blog post about it](https://tgel0.github.io/blog/10-visualizations/)
 
-- I volunteered at the PyData Berlin 2018 Conference! In [this blog post](https://tgel0.github.io/blog/pydata-berlin-2018/) I summarized this awesome experience by adding a few photos I took during the weekend
+- Recently, I started out with Kaggle - check out my [Kaggle profile page](https://www.kaggle.com/tomigelo) or my first official competition notebook [here](https://github.com/tgel0/data-science-portfolio/blob/master/Notebooks/KaggleSantanderValuePrediction.ipynb)
+
+- I volunteered at the PyData Berlin 2018 Conference! In [this blog post](https://tgel0.github.io/blog/pydata-berlin-2018/) I summarized this awesome experience
