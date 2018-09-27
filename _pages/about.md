@@ -14,6 +14,8 @@ I am a data nerd based in Berlin and interested in data science and machine lear
 
 ### News:
 
+- I started a series of blog posts where I'm writing about all the things I'm building with the Spotify Web API. The first post is called "Spotify Data Project Part 1 - from Data Retrieval to First Insights" and can be found [here](https://tgel0.github.io/blog/spotify-data-project-part-1-from-data-retrieval-to-first-insights/)
+
 - Following my 10.000th tweet on Twitter I did some data analysis and visualization and wrote a [blog post about it](https://tgel0.github.io/blog/10-visualizations/)
 
 - Recently, I started out with Kaggle - check out my [Kaggle profile page](https://www.kaggle.com/tomigelo) or my first official competition notebook [here](https://github.com/tgel0/data-science-portfolio/blob/master/Notebooks/KaggleSantanderValuePrediction.ipynb)
