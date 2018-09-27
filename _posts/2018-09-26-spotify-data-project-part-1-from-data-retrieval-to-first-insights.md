@@ -1,11 +1,11 @@
 ---
 title: 'Spotify Data Project Part 1 - from Data Retrieval to First Insights'
 date: 2018-09-27
-permalink: /blog/most-popular-tracks-2018-spotify/
+permalink: /blog/spotify-data-project-part-1-from-data-retrieval-to-first-insights/
 tags:
   - python
   - data
-  - collection
+  - retrieval
   - spotify
   - api
   - tracks  
