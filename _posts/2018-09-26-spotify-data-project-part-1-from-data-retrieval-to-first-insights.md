@@ -24,15 +24,15 @@ tags:
 
 And if you are willing to get your hands dirty for some nice data you can always go for the APIs. Tech companies such as Twitter, Slack and Google (again!) provide APIs so that others can build applications on top of those. There is nothing stopping you from using them for extracting data and doing some data analysis with it.
 
-In this series of articles, I'm going to describe how I utilized the [Spotify Web API](https://developer.spotify.com/documentation/web-api/) to retrieve data automatically (covered in this article, mostly) as well as how to use data science tools such as Python, SQL and Bash to gain insights from the data (to be continued in the next articles).
+In this series of articles, I'm going to describe how I utilized the [Spotify Web API](https://developer.spotify.com/documentation/web-api/) to retrieve data automatically (main topic of this article, mostly) as well as how to use data science tools such as Python, SQL and Bash to gain insights from the data (to be covered in the following articles).
 
 **Note:** if you are only interested in the coding stuff feel free to skip to the end of this article where you will find all the notebooks, tools and references used for this project.
 
 ## Data Retrieval
 
-After creating an account at [developer.spotify.com](https://developer.spotify.com/) you are already good to go. In fact, you can directly go to the [Spotify Web API Console](https://developer.spotify.com/console/) and start exploring the different API endpoints with an easy-to-use interface without the need for any Jupyter notebooks at all! 
+In order to get access to Spotify's platform, you need to create an account at [developer.spotify.com](https://developer.spotify.com/). After that you can directly go to the [Spotify Web API Console](https://developer.spotify.com/console/) and start exploring the different API endpoints with an easy-to-use interface without the need for any Jupyter notebooks at all! 
 
-Essentially, APIs work on a request/response basis. You ask the API about tracks from the golden years of 2012 and the API responds with some of the best songs of our generation such as [this gem](https://www.youtube.com/watch?v=APUxJ8f7PXY). However, since the communication with the API is done in a machine-readable format such as JSON, you will want to use a programming language to do this. That is, if you want to make use of the millions of rows of music data available in the Spotify catalogue.
+Essentially, APIs work on a request/response basis. You ask the API about tracks from the golden years of 2010-2012 and the API responds with some of the best songs of our generation such as [this gem](https://www.youtube.com/watch?v=APUxJ8f7PXY). However, since the communication with the API is done in a machine-readable format such as JSON, you will want to use a programming language to do this. That is, if you want to make use of the millions of rows of music data available in the Spotify catalogue.
 
 <p align="center">
 <img align="center" src="https://github.com/tgel0/tgel0.github.io/blob/master/images/SpotifyWebAPI.png?raw=true">
