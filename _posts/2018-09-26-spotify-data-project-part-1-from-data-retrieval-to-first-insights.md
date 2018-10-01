@@ -28,6 +28,8 @@ In this series of articles, I'm going to describe how I utilized the [Spotify We
 
 **Note:** if you are only interested in the coding stuff feel free to skip to the end of this article where you will find all the notebooks, tools and references used for this project.
 
+**Note 2:** I'm super happy to announce that this article has been republished by the Medium Publication ['Towards Data Science'](https://towardsdatascience.com/)! Feel free to check it out [here](https://towardsdatascience.com/spotify-data-project-part-1-from-data-retrieval-to-first-insights-f5f819f8e1c3)!
+
 ## Data Retrieval
 
 In order to get access to Spotify's platform, you need to create an account at [developer.spotify.com](https://developer.spotify.com/). After that you can directly go to the [Spotify Web API Console](https://developer.spotify.com/console/) and start exploring the different API endpoints with an easy-to-use interface without the need for any Jupyter notebooks at all! 
