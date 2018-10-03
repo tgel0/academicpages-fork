@@ -14,7 +14,7 @@ I am a data nerd based in Berlin and interested in data science and machine lear
 
 ### News:
 
-- I started a series of blog posts where I'm writing about all the things I'm building with the Spotify Web API. The first post is called "Spotify Data Project Part 1 - from Data Retrieval to First Insights" and has been published by [Towards Data Science on Medium,com](https://towardsdatascience.com/spotify-data-project-part-1-from-data-retrieval-to-first-insights-f5f819f8e1c3)! Alternatively, you can also read it [on my personal blog](https://tgel0.github.io/blog/spotify-data-project-part-1-from-data-retrieval-to-first-insights/)
+- I started a series of blog posts where I'm writing about all the things I'm building with the Spotify Web API. The first post is called "Spotify Data Project Part 1 - from Data Retrieval to First Insights" and has been published by [Towards Data Science on Medium.com](https://towardsdatascience.com/spotify-data-project-part-1-from-data-retrieval-to-first-insights-f5f819f8e1c3)! Alternatively, you can also read it [on my personal blog](https://tgel0.github.io/blog/spotify-data-project-part-1-from-data-retrieval-to-first-insights/)
 
 - Following my 10.000th tweet on Twitter I did some data analysis and visualization and wrote a [blog post about it](https://tgel0.github.io/blog/10-visualizations/)
 
