@@ -10,7 +10,7 @@ redirect_from:
 
 ### Welcome to my personal website!
 
-I am a data nerd based in Berlin and interested in all-things-data, startups, mobile tech and Swedish EDM. I have 4+ years of professional experience working in IT application operations for various companies from the banking and automotive area.
+I am a data nerd based in Berlin interested in all-things-data, startups and [Swedish EDM](https://www.youtube.com/watch?v=oAHg2zHfCsk). I have 4+ years of professional experience working in the area of [service operation](https://wiki.en.it-processmaps.com/index.php/ITIL_Service_Operation) for various companies from the banking and automotive area.
 
 
 ### News:
