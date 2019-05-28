@@ -1,3 +1,25 @@
+---
+title: 'A Whole New World: Going Serverless with GCP (Aladdin-style)'
+date: 2019-05-28
+permalink: /blog/A-Whole-New-World-Going-Serverless-with-GCP-Aladdin-Style/
+tags:
+  - python
+  - GCP
+  - serverless
+  - data
+  - retrieval
+  - spotify
+  - api
+  - cloud  
+  - bigquery
+---  
+<p align="center">
+<img align="center" src="https://github.com/tgel0/tgel0.github.io/blob/master/images/aladdin-cover.jpg?raw=true">
+</p>
+
+<br/>
+<br/>
+
 # A Whole New World: Going Serverless with GCP (Aladdin-style)
 
 ### Once upon a time, a young street urchin from a kingdom far, far away was managing virtual machines and cron jobs for a living but soon his life will turn upside down when he discovers serverless.
@@ -11,6 +33,7 @@ Note:  there might be a reference or two from Disney's Aladdin movie which I rec
 Let's imagine ourselves in the ancient kingdom of [Agrabah](https://onceuponatime.fandom.com/wiki/Agrabah). The protagonist of our story was looking for a new solution for his data pipeline when a giant, blue ghost came out of a magic lamp.
 
 ![](https://media.giphy.com/media/4K3l1T9MZwtoivFqtx/giphy.gif)
+
 
 ## 🧞 Three Wishes
 
@@ -30,7 +53,9 @@ But today all the major cloud providers have some sort of serverless option: AWS
 
 In this project, I implemented the following architecture to get a weekly dataset of audio data from the Spotify API:
 
-![](diagram-1dbbf33f-52bd-406f-9904-c6ea2ab56593.png)
+<p align="center">
+<img align="center" src="https://raw.githubusercontent.com/tgel0/tgel0.github.io/master/images/GCP_diagram.png">
+</p>
 
 In more detail this means:
 
@@ -76,7 +101,9 @@ The second Cloud Function is going to take the CSV's from the Google Storage buc
 
 Setting up a dataset and table in BigQuery is fairly easy with the the web console. Just make sure to not miss any columns or data types.
 
-![](spotify_data_bigq-6a54b791-4bca-4b95-a3c8-c11105c18d5f.png)
+<p align="center">
+<img align="center" src="https://github.com/tgel0/tgel0.github.io/blob/master/images/spotify_data_bigq.PNG?raw=true">
+</p>
 
 ### ☁️  Cloud Scheduler
 
